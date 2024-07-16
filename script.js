@@ -19,7 +19,7 @@ const winPatterns = [
   [6, 7, 8],
 ];
 const existGame = () => {
-  window.location.href = "firstpage.html";
+  window.location.href = "index.html";
 };
 const resetGame = () => {
   turnO = true;
